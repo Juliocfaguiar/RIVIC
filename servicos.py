@@ -1,5 +1,4 @@
 import streamlit as st
-from deepface import DeepFace
 import sqlite3
 
 

@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 from deepface import DeepFace
-import sqlite3
 import os
 import shutil
 import cv2

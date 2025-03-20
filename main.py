@@ -3,7 +3,6 @@ from streamlit_option_menu import option_menu
 import home, cadastro, visitante ,servicos, colaborador, adm
 import pandas as pd
 from deepface import DeepFace
-import sqlite3
 
 st.set_page_config(page_title="Integrador_v_RIVIC",layout="wide",page_icon="👾")
 
