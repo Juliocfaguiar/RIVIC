@@ -1,17 +1,4 @@
-deepface==0.0.93
-dlib @ file:///D:/bld/dlib_1697537197896/work
-facenet-pytorch==2.6.0
-keras==3.9.0
-mediapipe==0.10.21
-opencv-contrib-python==4.11.0.86
-opencv-python==4.11.0.86
-psutil==7.0.0
-pytest-shutil==1.8.1
 streamlit==1.43.2
 streamlit-option-menu==0.4.0
-tensorflow==2.19.0
-tensorflow-io-gcs-filesystem==0.31.0
-tf_keras==2.19.0
-toml==0.10.2
-torch==2.2.2
-torchvision==0.17.2
+pandas
+deepface==0.0.93
