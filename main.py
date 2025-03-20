@@ -1,6 +1,5 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-# from comum import config
 import home, cadastro, visitante ,servicos, colaborador, adm
 import pandas as pd
 from deepface import DeepFace

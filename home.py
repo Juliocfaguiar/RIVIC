@@ -1,7 +1,5 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
 import pandas as pd
-import cadastro, visitante, servicos, colaborador, adm
 from deepface import DeepFace
 import sqlite3
 import os

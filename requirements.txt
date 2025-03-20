@@ -1,0 +1,14 @@
+
+deepface==0.0.93
+facenet-pytorch==2.6.0
+keras==3.9.0
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86
+opencv-python==4.11.0.86
+pytest-shutil==1.8.1
+retina-face==0.0.17
+streamlit==1.43.2
+streamlit-option-menu==0.4.0
+tensorflow==2.19.0
+tf_keras==2.19.0
+ultralytics==8.3.92
